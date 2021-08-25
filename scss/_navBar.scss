@@ -17,10 +17,11 @@
 }
 
 .bg-style{
-    background: linear-gradient(rgba(0, 0, 0, 0.295), black);
+    background: linear-gradient(rgba(39, 37, 28, 0.295), rgba(102, 99, 81, 0.445));
+    border-radius: 10px;
 }
 .bg-style1{
-    background-color: $bg-info;
+    background-color: rgba(240, 231, 184, 0.76);
 }
 nav img {
     width: 100px;
