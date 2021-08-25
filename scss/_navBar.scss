@@ -29,6 +29,9 @@ nav img {
 }
 .nav-container{
     width: 100%;
+}
+.nav-container{
+    width: 100%;
         h1{
         color: whitesmoke;
         text-shadow: 0 0 8px black;
@@ -47,6 +50,12 @@ nav img {
 }
 }
 
+.btn{
+    btn-outline-light{
+    color: white;
+    border-color: white;
+}
+}
 #navpie {
     display: flex;
     font-size: 9rem;

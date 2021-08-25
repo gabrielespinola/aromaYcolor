@@ -93,14 +93,3 @@ $colors: (uno:red,dos:green,tres:yellow,cuatro:black);
         opacity: 1;
     }
 }
-.linear-gradient:hover {
-    background: linear-gradient(to top, rgb(235, 221, 177), rgba(27, 27, 27, 0));
-    color: rgb(129, 96, 96);
-    transition: transform 3s;
-
-}
-
-.transform:hover {
-    transform: translate(10px, 20px);
-    transition: transform 3s;
-}

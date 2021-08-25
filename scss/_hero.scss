@@ -3,19 +3,16 @@
     width: 100%;
     height: 80vh;
     padding: 5em;
+    background: url(../img/a12.jpeg) center;
     background-size: cover;
     background-attachment:fixed;
-    @if $img==es{background-image: url(../img/hero2.jpg)}
-    @else if $img==de{background-image: url(../img/a5.jpg)}
-    @else if $img==en{background-image: url(../img/a6.jpg)}
-    @else {background-image:url(../img/a2.jpg)}
 }
 
 .heroNosotros{
     width: 100%;
     height: 80vh;
     padding: 5em;
-    background: url(../img/a16.jpeg) center;
+    background: url(../img/a6.jpg) center;
     background-size: cover;
     background-attachment:fixed;
 }
